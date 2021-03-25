@@ -1,0 +1,5 @@
+
+    Change Log for SlickExplosion
+    
+    03/25/21 Initial program written and documented.
+    ECE
