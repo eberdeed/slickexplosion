@@ -1,0 +1,4 @@
+Transformation coordinatesSpherical (r,θ,ϕ) → Cartesian (x,y,z)
+x = r sinϕ cosθ
+y = r sinϕ sinθ
+z = r cos
